@@ -1,0 +1,9 @@
+transformers==4.21.0
+torch==1.13.1
+sentencepiece==0.1.96
+PILLOW==9.2.0
+requests==2.28.1
+beautifulsoup4==4.11.1
+nltk==3.7
+opencv-python==4.6.0.66
+gTTS==2.2.3
